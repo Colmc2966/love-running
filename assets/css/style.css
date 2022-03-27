@@ -88,6 +88,7 @@ color: #fff;
         transform: scale(1.1);
     }
 }
+/* text on hero image*/
 #cover-text {
     font-size: 130%;
     font-family: Oswald, sans-serif;
