@@ -231,3 +231,29 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* gallery*/
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
+
+/* media queries */
+
+@media screen and (max-width: 1200px) {
+    #club-ethos {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+        
+    }
+}
+    
+}
